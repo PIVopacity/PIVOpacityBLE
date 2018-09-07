@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SelfSignedCredBLE</string>
+    <string name="action_settings">Settings</string>
+    <string name="service_name">BLE Self-Signed Credential Card Service</string>
+    <string name="card_title">BLE Self-Signed PIV Credential</string>
+</resources>

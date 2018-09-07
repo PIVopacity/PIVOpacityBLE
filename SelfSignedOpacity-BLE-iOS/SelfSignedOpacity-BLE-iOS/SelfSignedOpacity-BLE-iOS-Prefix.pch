@@ -1,0 +1,14 @@
+#import <Availability.h>
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "Debug.h"
+    #import "Constants.h"
+    #import "MyApp.h"
+    #import "MyButtons.h"
+    #import "MyDevice.h"
+    #import "MyImages.h"
+    #import "MyNonce.h"
+    #import "MyTimer.h"
+#endif
