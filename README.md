@@ -12,7 +12,7 @@ This research was conducted under contract with the U.S Department of Homeland S
 Software distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND
 
 
-See [LICENSE]()
+See [LICENSE](https://github.com/PIVopacity/PIVOpacityBLE/blob/master/LICENSE.txt)
 
 
 ### Security ###
